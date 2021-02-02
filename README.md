@@ -1,7 +1,7 @@
 # ArdiGans YT
 Simple WhatsApp Bot
 
-### FOR TERMUX USER
+### CODE INSTALL
 ```bash
 > pkg update && pkg upgrade
 > pkg install git -y
