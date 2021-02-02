@@ -34,5 +34,5 @@ Simple WhatsApp Bot
 > node index.js
 ```
 
-# Recode: @arpunchs
+# Recode: @ArdiGans007
 Bye: @Nurutomo
