@@ -4,10 +4,11 @@ Tutorial Buat Bot WA:
 Credit: *ArdiGans*
 
 Ketik di *[TERMUX]*
-1) $termux-setup-storage
-2) $pkg install ffmpeg && pkg install imagemagick
-3) $cd /sdcard/Botku
+1) $git clone https://github.com/ArdiGans007/ArdiBot
+2) $cd ArdiGans
+3) $npm i
 4) $node index.js
+5) Sqan qrnya
 
 _Bisa kalian liat tutorialnya di_
 *Youtube kami:*
