@@ -6,6 +6,7 @@ let handler = async m => m.reply(`
 ╰────
 ╭─「 Hubungi 」
 │ > Ingin donasi? Wa.me/6285282996146
+ Power By ArdiGans YT
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
